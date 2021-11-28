@@ -1,6 +1,6 @@
 ﻿# Customer_Churn_Prediction_PySpark
 
-The features and their definitions of the dataset:
+The features of the dataset and their definitions are below:
 
 Name : Customer name
 
